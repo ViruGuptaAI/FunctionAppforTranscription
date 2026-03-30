@@ -1,1 +1,12 @@
 .venv
+.git
+.github
+.vscode
+__pycache__
+*.zip
+Data
+test_function.py
+OldCode.py
+.env
+.gitignore
+README.md
