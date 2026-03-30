@@ -1,4 +1,3 @@
 azure-functions
-azure-ai-transcription
 azure-identity
-python-dotenv
+requests
