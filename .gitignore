@@ -7,6 +7,6 @@ local.settings.json
 *.zip
 OldCode.py
 test_function.py
-.vscode/tasks.json
+.vscode/
 Data/
 *.wav
